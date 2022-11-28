@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
 <h1 align="center">Hi 👋, I'm Praveen Nanda</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **praveennanda124@gmail.com**
 
-- [My Website](https://6384ed97a04cfb37f1e70794--sweet-hummingbird-0a14b2.netlify.app/)
+- Here is my Website : [Link](https://6384ed97a04cfb37f1e70794--sweet-hummingbird-0a14b2.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
