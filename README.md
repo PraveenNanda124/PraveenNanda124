@@ -1,4 +1,4 @@
-![ban2](https://user-images.githubusercontent.com/116082827/204568003-35f2254a-29ee-4535-ba5a-008dc3a46301.jpg)
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/116082827/204611697-a63f8006-5392-4dfa-b988-6815c98bd5fb.png)
 
 <h1 align="center">Hi 👋, I'm Praveen Nanda</h1>
 <h3 align="center">A passionate developer from India</h3>
