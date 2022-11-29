@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **praveennanda124@gmail.com**
 
-- Here is my Website : [Link](https://6384ed97a04cfb37f1e70794--sweet-hummingbird-0a14b2.netlify.app/)
+- Here is my Website : [Link](https://praveen-nanda-tech.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
