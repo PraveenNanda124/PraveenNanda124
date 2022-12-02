@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **praveennanda124@gmail.com**
 
-- Here is my Website : [Link](https://praveen-nanda-tech.netlify.app/)
+- Portfolio :  <a href="https://praveen-nanda-tech.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/726/726107.png" alt="typescript" width="40" height="40"/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
