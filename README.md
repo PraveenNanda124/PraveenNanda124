@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/npk206701" target="blank"><img align="center" src="https://i.pinimg.com/736x/ee/af/9c/eeaf9ce3ab22ecb3904daea1b2eab04a.jpg" alt="npk206701" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nanda-praveen-kumar-749177253" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/linkedin-logo-6858729-5638273.png" alt="nandapraveenkumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/praveennanda" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/linkedin-logo-6858729-5638273.png" alt="nandapraveenkumar" height="30" width="40" /></a>
 <a href="https://instagram.com/praveen_npk24" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="praveen_npk24" height="30" width="40" /></a>
 </p>
 
