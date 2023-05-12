@@ -4,6 +4,17 @@
 
 <h1 align="center">Hi 👋, I'm Praveen Nanda</h1>
 <h3 align="center">A passionate developer</h3>
+<br/>
+
+<h3 align="center"> As a remote fresher front-end developer, I am excited to bring my skills and passion for coding to a dynamic team that values creativity and innovation. With a strong foundation in HTML, CSS, and JavaScript, I have experience building responsive and user-friendly websites.
+
+During my time as a student, I worked on several projects that honed my skills in web development. I am familiar with modern front-end frameworks such as React and Vue.js and have experience with version control systems like Git.
+
+As a self-starter, I am always looking to learn and grow my skills. I am eager to collaborate with team members to create engaging and intuitive websites that exceed client expectations. With excellent communication skills and the ability to work independently, I am confident in my ability to contribute to any project.
+
+Overall, I am excited to begin my career as a remote front-end developer and am committed to delivering high-quality work that meets the needs of clients and end-users.</h3>
+
+<br/>
 <img align="right" alt="Coding" width="400" src="https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveennanda124&label=Profile%20views&color=0e75b6&style=flat" alt="praveennanda124" /> </p>
 
@@ -13,10 +24,14 @@
 
 - Portfolio : [My website](https://praveen-nanda-tech.netlify.app) <a href="https://praveen-nanda-tech.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/726/726107.png" alt="typescript" width="40" height="40"/> 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/npk206701" target="blank"><img align="center" src="https://i.pinimg.com/736x/ee/af/9c/eeaf9ce3ab22ecb3904daea1b2eab04a.jpg" alt="npk206701" height="30" width="40" /></a>
+  
+  
 <a href="https://linkedin.com/in/praveennanda" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/linkedin-logo-6858729-5638273.png" alt="nandapraveenkumar" height="30" width="40" /></a>
+  
+  
 <a href="https://instagram.com/praveen_npk24" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="praveen_npk24" height="30" width="40" /></a>
 </p>
 
