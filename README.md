@@ -1,5 +1,6 @@
 
-![Copy of YouTube Superstars - Profile Banner](https://user-images.githubusercontent.com/116082827/220303041-34b7ceb9-ae0a-43fc-9e35-a7eb61628288.png)
+![l](https://github.com/PraveenNanda124/PraveenNanda124/assets/116082827/ed97125e-d56f-41fd-88ea-f810869875d9)
+
 
 <h1 align="center">Hi 👋, I'm Praveen Nanda</h1>
 <h3 align="center">A passionate developer</h3>
